@@ -1,7 +1,7 @@
 # IKUISNOTONLINE
 A Small Repository containing all the assets and materials I used for the concept RPG (IKU IS NOT ONLINE)
 
-IKU IS NOT ONLINE is a concept I came up with during my time on the CODE NATION course. It is in very early stages of development but the main outline I followed was as follows:
+IKU IS NOT ONLINE is a concept I came up with during my time on the CODE NATION course. It was in very early stages of development but the main outline I followed was as follows:
 -  The game is a top down RPG in a monochrome pixel art style
 -  You play as a man named Iku who has to escape a medical facility that has been overrun by various cartoonish monsters
 -  The primary twist of the game is that the "Main" game isn't real and is being hallucinated by Iku from the beginning when he is injected with Falsification Serum (the game's healing system)
